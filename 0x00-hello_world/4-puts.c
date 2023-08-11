@@ -1,13 +1,9 @@
 #include <stdio.h>
 
 /**
- *
  *main - Entry point
  *
- *Description: This program uses puts to print out a string
- * describe tge parameter
- *
- *Return :Always 0
+ *Return: 0 (Success) Always
  */
 
 int main(void)
