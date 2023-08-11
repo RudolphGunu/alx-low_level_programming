@@ -2,6 +2,8 @@
 
 /**
  *
+ *main - Entry point
+ *
  *Description: This program uses puts to print out a string
  * describe tge parameter
  *
