@@ -1,14 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
-
-#include <unistd.h> 
-
-
+#include <unistd.h>
 /* 0 */
-int putchar();
-
-
+int putchar(void);
 void print_alphabet(void);
-
-
 #endif  /* MAIN_H */
