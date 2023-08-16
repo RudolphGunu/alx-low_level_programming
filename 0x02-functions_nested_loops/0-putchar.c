@@ -9,14 +9,13 @@
 
 int main(void)
 {
-  int c = 0;
-  
-  for (c = 0; c < 1; ++c)
-    {
-    printf("_putchar");
-    }
+int c = 0;
 
-  putchar('\n');
-  
-  return (0);
+for (c = 0; c < 1; ++c)
+{
+printf("_putchar");
+}
+
+putchar('\n');
+return (0);
 }
