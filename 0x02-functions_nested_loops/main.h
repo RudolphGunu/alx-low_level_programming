@@ -1,21 +1,14 @@
-#include "main.h"
+#ifndef MAIN_H
+#define MAIN_H
 
-/**
- *main- print _putchar
- *
- *Return: 0
- */
+#include <unistd.h> 
 
-int main(void)
-{
-  _putchar('_');
-  _putchar('p');
-  _putchar('u');
-  _putchar('t');
-  _putchar('c');
-  _putchar('h');
-  _putchar('a');
-  _putchar('r');
-  _putchar('\n');
-  return (0);
-}
+
+/* 0 */
+int putchar();
+
+
+void print_alphabet(void);
+
+
+#endif  /* MAIN_H */
