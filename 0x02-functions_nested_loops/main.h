@@ -9,6 +9,6 @@ void print_alphabet(void);
 void print_alphabet_x10(void);
 
 /* 3 */
-int _islower(int r);
+int _islower(int c);
 
 #endif  /* MAIN_H */
