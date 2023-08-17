@@ -19,7 +19,7 @@ void print_numbers(void);
 void print_most_numbers(void);
 
 /* 5 */
-int print_sign(int n);
+void more_numbers(void);
 
 /* 6 */
 int _abs(int);
