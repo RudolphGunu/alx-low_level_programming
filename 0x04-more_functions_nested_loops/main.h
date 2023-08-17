@@ -38,7 +38,7 @@ void print_square(int size);
 int main(void);
 
 /* 10 */
-int add(int, int);
+void print_triangle(int size);
 
 /* 11 */
 void print_to_98(int n);
