@@ -16,7 +16,7 @@ int mul(int a, int b);
 void print_numbers(void);
 
 /* 4 */
-int _isalpha(int c);
+void print_most_numbers(void);
 
 /* 5 */
 int print_sign(int n);
