@@ -41,7 +41,7 @@ int main(void);
 void print_triangle(int size);
 
 /* 11 */
-void print_to_98(int n);
+void print_number(int n);
 
 /* 12 */
 void print_times_table(int n);
