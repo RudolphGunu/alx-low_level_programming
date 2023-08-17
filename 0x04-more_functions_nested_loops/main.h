@@ -13,7 +13,7 @@ int _isdigit(int c);
 int mul(int a, int b);
 
 /* 3 */
-int _islower(int c);
+void print_numbers(void);
 
 /* 4 */
 int _isalpha(int c);
