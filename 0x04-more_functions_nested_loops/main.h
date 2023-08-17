@@ -31,10 +31,11 @@ void print_line(int n);
 void print_diagonal(int n);
 
 /* 8 */
-void jack_bauer(void);
+void print_square(int size);
+
 
 /* 9 */
-void times_table(void);
+int main(void);
 
 /* 10 */
 int add(int, int);
