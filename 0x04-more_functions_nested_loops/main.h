@@ -22,7 +22,7 @@ void print_most_numbers(void);
 void more_numbers(void);
 
 /* 6 */
-int _abs(int);
+void print_line(int n);
 
 /* 7 */
 int print_last_digit(int);
