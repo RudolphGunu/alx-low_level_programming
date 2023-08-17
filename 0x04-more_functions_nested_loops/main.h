@@ -7,7 +7,7 @@
 int _isupper(int c);
 
 /* 1 */
-void print_alphabet(void);
+int _isdigit(int c);
 
 /* 2 */
 void print_alphabet_x10(void);
