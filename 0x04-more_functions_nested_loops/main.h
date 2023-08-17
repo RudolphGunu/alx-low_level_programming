@@ -3,6 +3,9 @@
 
 #include <unistd.h>
 
+
+int _putchar(char c);
+
 /* 0 */
 int _isupper(int c);
 
@@ -25,7 +28,7 @@ void more_numbers(void);
 void print_line(int n);
 
 /* 7 */
-int print_last_digit(int);
+void print_diagonal(int n);
 
 /* 8 */
 void jack_bauer(void);
