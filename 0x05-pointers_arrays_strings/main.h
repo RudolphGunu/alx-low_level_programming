@@ -10,7 +10,8 @@ void reset_to_98(int *n);
 void swap_int(int *a, int *b);
 
 /* 2 */
-void print_alphabet_x10(void);
+int _strlen(char *s);
+
 
 /* 3 */
 int _islower(int c);
