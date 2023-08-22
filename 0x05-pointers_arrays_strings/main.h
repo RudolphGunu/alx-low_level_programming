@@ -26,7 +26,7 @@ void print_rev(char *s);
 void rev_string(char *s);
 
 /* 7 */
-int print_last_digit(int);
+void puts2(char *str);
 
 /* 8 */
 void jack_bauer(void);
