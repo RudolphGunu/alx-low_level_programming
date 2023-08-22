@@ -14,10 +14,10 @@ int _strlen(char *s);
 
 
 /* 3 */
-int _islower(int c);
+int _putchar(char c);
 
 /* 4 */
-int _isalpha(int c);
+void _puts(char *str);
 
 /* 5 */
 int print_sign(int n);
