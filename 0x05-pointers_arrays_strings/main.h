@@ -41,6 +41,6 @@ int add(int, int);
 char *_strcpy(char *dest, char *src);
 
 /* 12 */
-void print_times_table(int n);
+int _atoi(char *s);
 
 #endif /* MAIN_H */
