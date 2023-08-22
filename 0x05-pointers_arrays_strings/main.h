@@ -20,7 +20,7 @@ int _putchar(char c);
 void _puts(char *str);
 
 /* 5 */
-int print_sign(int n);
+void print_rev(char *s);
 
 /* 6 */
 int _abs(int);
