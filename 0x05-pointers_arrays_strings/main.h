@@ -23,7 +23,7 @@ void _puts(char *str);
 void print_rev(char *s);
 
 /* 6 */
-int _abs(int);
+void rev_string(char *s);
 
 /* 7 */
 int print_last_digit(int);
