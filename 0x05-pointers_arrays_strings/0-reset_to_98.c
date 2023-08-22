@@ -5,7 +5,7 @@
  *reset_to_98 - resets to 98
  *
  *Description: resets to 98
- *
+ *@n - value to be tested
  *Return: 0
  *
  */
