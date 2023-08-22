@@ -38,7 +38,7 @@ void print_array(int *a, int n);
 int add(int, int);
 
 /* 11 */
-void print_to_98(int n);
+char *_strcpy(char *dest, char *src);
 
 /* 12 */
 void print_times_table(int n);
