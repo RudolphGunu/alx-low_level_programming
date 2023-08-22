@@ -29,10 +29,10 @@ void rev_string(char *s);
 void puts2(char *str);
 
 /* 8 */
-void jack_bauer(void);
+ void puts_half(char *str);
 
 /* 9 */
-void times_table(void);
+void print_array(int *a, int n);
 
 /* 10 */
 int add(int, int);
