@@ -1,0 +1,15 @@
+#include "main.h"
+#include <stdio.h>
+/**
+ * _strcat - cats strings
+ *Description: cats strings
+ *@dest- char to cat
+ *@src- char ot cat
+ *Return: 0
+ */
+char *_strcat(char *dest, char *src)
+{
+char *ptr = *_strcat();
+if (dest && src)
+putchar(*dest + *src);
+}
